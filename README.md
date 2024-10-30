@@ -22,18 +22,7 @@ A modern, interactive version of the classic Simon memory game, implemented in J
 - **Swing**: Java's GUI toolkit used for creating the 2x2 button grid and game display.
 - **Timer**: Used to manage the timed color flashes and delays between sequence steps.
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/simon-game.git
-   ```
-2. Compile and run the game:
-   ```bash
-   javac Simongame.java
-   java Simongame
-   ```
-Screenshot:
+## ScreenShot
 ![image](https://github.com/user-attachments/assets/2cd3fde7-a75f-4944-8f39-cedd835aae19)
 
 This project is a fun and simple demonstration of Java's GUI capabilities and an introduction to using timers for event handling in game development. Happy playing!
